@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "johnlemonnft",
+      "lastTimestampScrape": "2025-06-08T14%3A23%3A29_000Z"
+    }
+  ],
+  "apiKey": "",
+  "maxPages": 10,
+  "storageFolder": {
+    "csv": "storecsv",
+    "json": "storejson"
+  }
+}

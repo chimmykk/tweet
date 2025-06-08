@@ -1,0 +1,30 @@
+{
+  "name": "tweetdeck",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "scrape": "node -e 'import fetch from \"node-fetch\"; fetch(\"http://localhost:3000/api/scrapedata\").then(res => res.text()).then(console.log).catch(console.error)'"
+  },
+  "keywords": [
+    "twitter",
+    "scraper",
+    "tweets"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "A Twitter scraping tool to fetch and store tweets with media",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "cron": "^4.3.1",
+    "csv-stringify": "^6.4.6",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

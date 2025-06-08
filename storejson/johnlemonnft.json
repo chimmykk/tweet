@@ -1,0 +1,3453 @@
+[
+  {
+    "type": "tweet",
+    "id": "1931147005998338483",
+    "url": "https://x.com/JohnLemonNFT/status/1931147005998338483",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931147005998338483",
+    "text": "@skibidiCornPop lol he was nice about it just didn’t expect that response",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 23,
+    "createdAt": "Sat Jun 07 00:31:39 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931135434173624562",
+    "conversationId": "1931095196021788966",
+    "inReplyToUserId": "1280874582023569409",
+    "inReplyToUsername": "skibidiCornPop",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1280874582023569409",
+          "indices": [
+            0,
+            15
+          ],
+          "name": "Corn Pop",
+          "screen_name": "skibidiCornPop"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931146932371833156",
+    "url": "https://x.com/JohnLemonNFT/status/1931146932371833156",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931146932371833156",
+    "text": "@ComfortCreature This would’ve probably worked out better in this case haha",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 3,
+    "createdAt": "Sat Jun 07 00:31:22 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931133192888606813",
+    "conversationId": "1931095196021788966",
+    "inReplyToUserId": "1500956133934178314",
+    "inReplyToUsername": "ComfortCreature",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1500956133934178314",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Comfort Creatures",
+          "screen_name": "ComfortCreature"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931146818492269003",
+    "url": "https://x.com/JohnLemonNFT/status/1931146818492269003",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931146818492269003",
+    "text": "@robcheezesh 😆 imagine if I did",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 8,
+    "createdAt": "Sat Jun 07 00:30:55 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931145596145983789",
+    "conversationId": "1931095196021788966",
+    "inReplyToUserId": "145555839",
+    "inReplyToUsername": "robcheezesh",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "145555839",
+          "indices": [
+            0,
+            12
+          ],
+          "name": "Rob",
+          "screen_name": "robcheezesh"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931108463322825029",
+    "url": "https://x.com/JohnLemonNFT/status/1931108463322825029",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931108463322825029",
+    "text": "@TheeHustleHouse I do want that smoke",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 32,
+    "createdAt": "Fri Jun 06 21:58:30 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1930783080492720146",
+    "conversationId": "1930783080492720146",
+    "inReplyToUserId": "925157550617632768",
+    "inReplyToUsername": "TheeHustleHouse",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "925157550617632768",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "BaronVonHustle 🍌",
+          "screen_name": "TheeHustleHouse"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931108392548086048",
+    "url": "https://x.com/JohnLemonNFT/status/1931108392548086048",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931108392548086048",
+    "text": "@Sasmo28830163 Oh yeah definitely did for a bit! Especially because they don't tell you what they're looking into either so I had to wait for the report to come out",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 14,
+    "createdAt": "Fri Jun 06 21:58:13 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1930750463353487624",
+    "conversationId": "1930644458158063668",
+    "inReplyToUserId": "1424923073975750656",
+    "inReplyToUsername": "Sasmo28830163",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1424923073975750656",
+          "indices": [
+            0,
+            14
+          ],
+          "name": "Sasmo",
+          "screen_name": "Sasmo28830163"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931108261983588469",
+    "url": "https://x.com/JohnLemonNFT/status/1931108261983588469",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931108261983588469",
+    "text": "@digiknowassets Yeah that whole case was just odd. I think there was A LOt of problems with the launch though and they were forced to look into it more",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 16,
+    "createdAt": "Fri Jun 06 21:57:42 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1930795233761251690",
+    "conversationId": "1930644458158063668",
+    "inReplyToUserId": "1088106832948809729",
+    "inReplyToUsername": "digiknowassets",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1088106832948809729",
+          "indices": [
+            0,
+            15
+          ],
+          "name": "Digiknowassets_Wilder",
+          "screen_name": "digiknowassets"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931107295494275376",
+    "url": "https://x.com/JohnLemonNFT/status/1931107295494275376",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931107295494275376",
+    "text": "@zubic_eth Ayyy good work Zubic!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 10,
+    "createdAt": "Fri Jun 06 21:53:52 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931075589919645864",
+    "conversationId": "1931075589919645864",
+    "inReplyToUserId": "1558205162186997762",
+    "inReplyToUsername": "zubic_eth",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1558205162186997762",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "zubic",
+          "screen_name": "zubic_eth"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931104652549919087",
+    "url": "https://x.com/JohnLemonNFT/status/1931104652549919087",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931104652549919087",
+    "text": "@acdupes Gm and Gtrust",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 16,
+    "createdAt": "Fri Jun 06 21:43:22 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931101343470805225",
+    "conversationId": "1931095196021788966",
+    "inReplyToUserId": "331148707",
+    "inReplyToUsername": "acdupes",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "331148707",
+          "indices": [
+            0,
+            8
+          ],
+          "name": "dupes.base.eth",
+          "screen_name": "acdupes"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931104195010023589",
+    "url": "https://x.com/JohnLemonNFT/status/1931104195010023589",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931104195010023589",
+    "text": "@YOLO_Blast What do we do with Yolo Shards?",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 19,
+    "createdAt": "Fri Jun 06 21:41:32 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1902030026582937897",
+    "conversationId": "1902030026582937897",
+    "inReplyToUserId": "1754797902936121344",
+    "inReplyToUsername": "YOLO_Blast",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1754797902936121344",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "YOLO GAMES",
+          "screen_name": "YOLO_Blast"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931100196001210524",
+    "url": "https://x.com/JohnLemonNFT/status/1931100196001210524",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931100196001210524",
+    "text": "@boopsterzz Yeah his response really threw me off but glad I was still able to help a little!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 26,
+    "createdAt": "Fri Jun 06 21:25:39 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931099963339297211",
+    "conversationId": "1931095196021788966",
+    "inReplyToUserId": "1696710069373616129",
+    "inReplyToUsername": "boopsterzz",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1696710069373616129",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "boop",
+          "screen_name": "boopsterzz"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931097824311288241",
+    "url": "https://x.com/JohnLemonNFT/status/1931097824311288241",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931097824311288241",
+    "text": "@0xNOONER 🤣 you got my laughing out loud over here lol",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 42,
+    "createdAt": "Fri Jun 06 21:16:14 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931097331740656104",
+    "conversationId": "1931095196021788966",
+    "inReplyToUserId": "17809037",
+    "inReplyToUsername": "0xNOONER",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "17809037",
+          "indices": [
+            0,
+            9
+          ],
+          "name": "NOONΞR 🫡",
+          "screen_name": "0xNOONER"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931096376621826196",
+    "url": "https://x.com/JohnLemonNFT/status/1931096376621826196",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931096376621826196",
+    "text": "@W00DS_eth Will ship it to you!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 57,
+    "createdAt": "Fri Jun 06 21:10:28 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931096244296020323",
+    "conversationId": "1931095196021788966",
+    "inReplyToUserId": "1250603137393586178",
+    "inReplyToUsername": "W00DS_eth",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1250603137393586178",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "W 0 0 D S",
+          "screen_name": "W00DS_eth"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931095927600939142",
+    "url": "https://x.com/JohnLemonNFT/status/1931095927600939142",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931095927600939142",
+    "text": "@W00DS_eth @0xIntuition https://t.co/VSwdA9YY5h",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 110,
+    "createdAt": "Fri Jun 06 21:08:41 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931087972440666619",
+    "conversationId": "1931087972440666619",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VSwdA9YY5h",
+          "expanded_url": "https://twitter.com/JohnLemonNFT/status/1931095927600939142/photo/1",
+          "ext_alt_text": "Borat Borat Very Nice GIF",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1931095921724387328",
+          "indices": [
+            24,
+            47
+          ],
+          "media_key": "16_1931095921724387328",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARrMoYJplnAACgACGsyhg8fbgIYAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAACCgABGsyhgmmWcAAKAAIazKGDx9uAhgAA",
+              "media_key": "16_1931095921724387328"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GsyhgmmWcAABL6e.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 220,
+            "width": 220
+          },
+          "sizes": {
+            "large": {
+              "h": 220,
+              "w": 220
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/VSwdA9YY5h",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GsyhgmmWcAABL6e.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1250603137393586178",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "W 0 0 D S",
+          "screen_name": "W00DS_eth"
+        },
+        {
+          "id_str": "1489350103840219144",
+          "indices": [
+            11,
+            23
+          ],
+          "name": "Intuition 👁️",
+          "screen_name": "0xIntuition"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931095196021788966",
+    "url": "https://x.com/JohnLemonNFT/status/1931095196021788966",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931095196021788966",
+    "text": "Offered a homeless man at the stoplight my apple today\n\nHe looked at me and said, “I got no teeth bro.”\n\nFelt bad and gave him money instead 😅",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 7,
+    "likeCount": 34,
+    "quoteCount": 0,
+    "viewCount": 608,
+    "createdAt": "Fri Jun 06 21:05:47 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 1,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1931095196021788966",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931085287863853233",
+    "url": "https://x.com/JohnLemonNFT/status/1931085287863853233",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931085287863853233",
+    "text": "@Pons_ETH @GrindTheCoin @bearish_af @JirasanOfficial @SappySealsNFT @pudgypenguins @GenuinelyUndead Missing Doge Pound sir 😉",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 18,
+    "createdAt": "Fri Jun 06 20:26:25 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1929907057689342207",
+    "conversationId": "1929907057689342207",
+    "inReplyToUserId": "1448040240560623618",
+    "inReplyToUsername": "Pons_ETH",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1448040240560623618",
+          "indices": [
+            0,
+            9
+          ],
+          "name": "Pons Asinorum",
+          "screen_name": "Pons_ETH"
+        },
+        {
+          "id_str": "1770076497807634433",
+          "indices": [
+            10,
+            23
+          ],
+          "name": "Grind - Coming Soon",
+          "screen_name": "GrindTheCoin"
+        },
+        {
+          "id_str": "1541671491099455489",
+          "indices": [
+            24,
+            35
+          ],
+          "name": "BEARISH",
+          "screen_name": "bearish_af"
+        },
+        {
+          "id_str": "1792046695637032960",
+          "indices": [
+            36,
+            52
+          ],
+          "name": "Jirasan 🔴",
+          "screen_name": "JirasanOfficial"
+        },
+        {
+          "id_str": "1427280318034235402",
+          "indices": [
+            53,
+            67
+          ],
+          "name": "Sappy Seals",
+          "screen_name": "SappySealsNFT"
+        },
+        {
+          "id_str": "1415078650039443456",
+          "indices": [
+            68,
+            82
+          ],
+          "name": "Pudgy Penguins",
+          "screen_name": "pudgypenguins"
+        },
+        {
+          "id_str": "1714810256650371073",
+          "indices": [
+            83,
+            99
+          ],
+          "name": "GenuinelyUndead",
+          "screen_name": "GenuinelyUndead"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1930977805174476956",
+    "url": "https://x.com/JohnLemonNFT/status/1930977805174476956",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1930977805174476956",
+    "text": "@quiksetzz Enjoy!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 11,
+    "createdAt": "Fri Jun 06 13:19:19 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1930954325636907317",
+    "conversationId": "1930954325636907317",
+    "inReplyToUserId": "1467180120444227586",
+    "inReplyToUsername": "quiksetzz",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1467180120444227586",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "quik",
+          "screen_name": "quiksetzz"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1930973377189024218",
+    "url": "https://x.com/JohnLemonNFT/status/1930973377189024218",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1930973377189024218",
+    "text": "@ClassicsCrypto 😆",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 10,
+    "createdAt": "Fri Jun 06 13:01:43 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1930972697539793303",
+    "conversationId": "1930644458158063668",
+    "inReplyToUserId": "1433798557652373504",
+    "inReplyToUsername": "ClassicsCrypto",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1433798557652373504",
+          "indices": [
+            0,
+            15
+          ],
+          "name": "Jay B 😻🚀",
+          "screen_name": "ClassicsCrypto"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1930971207848927712",
+    "url": "https://x.com/JohnLemonNFT/status/1930971207848927712",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1930971207848927712",
+    "text": "@acdupes @TheDogePoundNFT Awooooo!!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 22,
+    "createdAt": "Fri Jun 06 12:53:06 +0000 2025",
+    "lang": "und",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1930969919178289232",
+    "conversationId": "1930969919178289232",
+    "inReplyToUserId": "331148707",
+    "inReplyToUsername": "acdupes",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "331148707",
+          "indices": [
+            0,
+            8
+          ],
+          "name": "dupes.base.eth",
+          "screen_name": "acdupes"
+        },
+        {
+          "id_str": "1377713365431296001",
+          "indices": [
+            9,
+            25
+          ],
+          "name": "Doge Pound 🐶",
+          "screen_name": "TheDogePoundNFT"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1930971152102371510",
+    "url": "https://x.com/JohnLemonNFT/status/1930971152102371510",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1930971152102371510",
+    "text": "@ClassicsCrypto 😆 it’s really not that exciting, I’d pass 😂",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 21,
+    "createdAt": "Fri Jun 06 12:52:53 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1930970880139513893",
+    "conversationId": "1930644458158063668",
+    "inReplyToUserId": "1433798557652373504",
+    "inReplyToUsername": "ClassicsCrypto",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1433798557652373504",
+          "indices": [
+            0,
+            15
+          ],
+          "name": "Jay B 😻🚀",
+          "screen_name": "ClassicsCrypto"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1930970984032461193",
+    "url": "https://x.com/JohnLemonNFT/status/1930970984032461193",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1930970984032461193",
+    "text": "@ClassicsCrypto @MechaChaoticNFT @MarsCatsVoyage Gm Jay!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 17,
+    "createdAt": "Fri Jun 06 12:52:12 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1930965878310363592",
+    "conversationId": "1930965878310363592",
+    "inReplyToUserId": "1433798557652373504",
+    "inReplyToUsername": "ClassicsCrypto",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1433798557652373504",
+          "indices": [
+            0,
+            15
+          ],
+          "name": "Jay B 😻🚀",
+          "screen_name": "ClassicsCrypto"
+        },
+        {
+          "id_str": "1415800504144351234",
+          "indices": [
+            16,
+            32
+          ],
+          "name": "⚠ Mecha-Chaotic⚠",
+          "screen_name": "MechaChaoticNFT"
+        },
+        {
+          "id_str": "1419387331556093957",
+          "indices": [
+            33,
+            48
+          ],
+          "name": "Mars Cats Voyage",
+          "screen_name": "MarsCatsVoyage"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1930970944954044669",
+    "url": "https://x.com/JohnLemonNFT/status/1930970944954044669",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1930970944954044669",
+    "text": "@ClassicsCrypto @Nifty_Island Awoooo!!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 18,
+    "createdAt": "Fri Jun 06 12:52:03 +0000 2025",
+    "lang": "und",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1930970410910179715",
+    "conversationId": "1930970410910179715",
+    "inReplyToUserId": "1433798557652373504",
+    "inReplyToUsername": "ClassicsCrypto",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1433798557652373504",
+          "indices": [
+            0,
+            15
+          ],
+          "name": "Jay B 😻🚀",
+          "screen_name": "ClassicsCrypto"
+        },
+        {
+          "id_str": "1370259329056657408",
+          "indices": [
+            16,
+            29
+          ],
+          "name": "Nifty Island 🏝",
+          "screen_name": "Nifty_Island"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1930970568557277456",
+    "url": "https://x.com/JohnLemonNFT/status/1930970568557277456",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1930970568557277456",
+    "text": "@ZssBecker What an odd thing to tweet it’s like the man wanted to brag about this",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 2,
+    "likeCount": 5,
+    "quoteCount": 0,
+    "viewCount": 1006,
+    "createdAt": "Fri Jun 06 12:50:33 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1930969756900733102",
+    "conversationId": "1930969756900733102",
+    "inReplyToUserId": "1243470638477697024",
+    "inReplyToUsername": "ZssBecker",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19849,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13700,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8272,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1243470638477697024",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "Alex Becker 🍊🏆🥇",
+          "screen_name": "ZssBecker"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931718729840132431",
+    "url": "https://x.com/JohnLemonNFT/status/1931718729840132431",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931718729840132431",
+    "text": "@CryptoFrostyz @CryptoGarga Let’s go!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 9,
+    "createdAt": "Sun Jun 08 14:23:29 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931717936353263694",
+    "conversationId": "1931708660394127724",
+    "inReplyToUserId": "1293975335801888768",
+    "inReplyToUsername": "CryptoFrostyz",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19832,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13708,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8279,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1293975335801888768",
+          "indices": [
+            0,
+            14
+          ],
+          "name": "Frostyz",
+          "screen_name": "CryptoFrostyz"
+        },
+        {
+          "id_str": "1384711969912102912",
+          "indices": [
+            15,
+            27
+          ],
+          "name": "Garga.eth (Greg Solano)",
+          "screen_name": "CryptoGarga"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931717845362016392",
+    "url": "https://x.com/JohnLemonNFT/status/1931717845362016392",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931717845362016392",
+    "text": "@CryptoFrostyz @CryptoGarga Wen Otherside? I’m ready to play",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 22,
+    "createdAt": "Sun Jun 08 14:19:58 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931708660394127724",
+    "conversationId": "1931708660394127724",
+    "inReplyToUserId": "1293975335801888768",
+    "inReplyToUsername": "CryptoFrostyz",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19832,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13708,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8279,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1293975335801888768",
+          "indices": [
+            0,
+            14
+          ],
+          "name": "Frostyz",
+          "screen_name": "CryptoFrostyz"
+        },
+        {
+          "id_str": "1384711969912102912",
+          "indices": [
+            15,
+            27
+          ],
+          "name": "Garga.eth (Greg Solano)",
+          "screen_name": "CryptoGarga"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931712530004443324",
+    "url": "https://x.com/JohnLemonNFT/status/1931712530004443324",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931712530004443324",
+    "text": "@CryptoFrostyz Haha I feel ya! I had fun in 2018 but I took no profits and lost it all 😆",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 13,
+    "createdAt": "Sun Jun 08 13:58:51 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931711325501100112",
+    "conversationId": "1931705762448814324",
+    "inReplyToUserId": "1293975335801888768",
+    "inReplyToUsername": "CryptoFrostyz",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19832,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13708,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8279,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1293975335801888768",
+          "indices": [
+            0,
+            14
+          ],
+          "name": "Frostyz",
+          "screen_name": "CryptoFrostyz"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931711186778665436",
+    "url": "https://x.com/JohnLemonNFT/status/1931711186778665436",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931711186778665436",
+    "text": "@CryptoFrostyz I didn’t have as much fun in icos but I’m a little biased 😜",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 18,
+    "createdAt": "Sun Jun 08 13:53:31 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931710952396767572",
+    "conversationId": "1931705762448814324",
+    "inReplyToUserId": "1293975335801888768",
+    "inReplyToUsername": "CryptoFrostyz",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19832,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13708,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8279,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1293975335801888768",
+          "indices": [
+            0,
+            14
+          ],
+          "name": "Frostyz",
+          "screen_name": "CryptoFrostyz"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931707809676034083",
+    "url": "https://x.com/JohnLemonNFT/status/1931707809676034083",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931707809676034083",
+    "text": "@Wii_Mee True! At least most NFTs tried to make something though vs memecoins who add nothing to the ecosystem",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 20,
+    "createdAt": "Sun Jun 08 13:40:05 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931706704556614103",
+    "conversationId": "1931705762448814324",
+    "inReplyToUserId": "1453670586903842818",
+    "inReplyToUsername": "Wii_Mee",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19832,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13708,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8279,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1453670586903842818",
+          "indices": [
+            0,
+            8
+          ],
+          "name": "WiiMee.eth",
+          "screen_name": "Wii_Mee"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931706051553829320",
+    "url": "https://x.com/JohnLemonNFT/status/1931706051553829320",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931706051553829320",
+    "text": "@TheDogePoundNFT 💯",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 87,
+    "createdAt": "Sun Jun 08 13:33:06 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931705936105689481",
+    "conversationId": "1931705762448814324",
+    "inReplyToUserId": "1377713365431296001",
+    "inReplyToUsername": "TheDogePoundNFT",
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19832,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13708,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8279,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1377713365431296001",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Doge Pound 🐶",
+          "screen_name": "TheDogePoundNFT"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1931705762448814324",
+    "url": "https://x.com/JohnLemonNFT/status/1931705762448814324",
+    "twitterUrl": "https://twitter.com/JohnLemonNFT/status/1931705762448814324",
+    "text": "If you missed peak NFT season, you missed one of the most electric times in CT.\n\nTimelines were on fire. Discords never slept. Every mint felt like a cultural moment.\n\nI’ve never seen that energy matched — not even close. \n\nBring back the NFT vibes 🚀",
+    "source": "Twitter for iPhone",
+    "retweetCount": 4,
+    "replyCount": 5,
+    "likeCount": 29,
+    "quoteCount": 0,
+    "viewCount": 860,
+    "createdAt": "Sun Jun 08 13:31:57 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 1,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1931705762448814324",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "JohnLemonNFT",
+      "url": "https://x.com/JohnLemonNFT",
+      "twitterUrl": "https://twitter.com/JohnLemonNFT",
+      "id": "1467238393696469003",
+      "name": "John Lemon 🍋 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913419944659648512/421hus-1_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1467238393696469003/1638802485",
+      "description": "",
+      "location": "Doge Pound",
+      "followers": 19832,
+      "following": 2213,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 04 21:04:38 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13708,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 968,
+      "statusesCount": 8279,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Girl Dad. Founder - @thedogepoundnft, investor @iglooinc, founder - @mintpadco love to build products and be goofy AWOOOOOOOO!! 🐶",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  20,
+                  36
+                ],
+                "name": "",
+                "screen_name": "thedogepoundnft"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  47,
+                  56
+                ],
+                "name": "",
+                "screen_name": "iglooinc"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  68,
+                  78
+                ],
+                "name": "",
+                "screen_name": "mintpadco"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  }
+]
