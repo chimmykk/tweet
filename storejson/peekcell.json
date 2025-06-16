@@ -27809,5 +27809,179 @@
     },
     "quoted_tweet": null,
     "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934622624048381993",
+    "url": "https://x.com/peekcell/status/1934622624048381993",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934622624048381993",
+    "text": "@TheLazyFrank @BasedMinis Omfg are you actually the first to crack the name :O",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 1,
+    "createdAt": "Mon Jun 16 14:42:31 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1934610736250343857",
+    "conversationId": "1934452596544270406",
+    "inReplyToUserId": "1607881682874695680",
+    "inReplyToUsername": "TheLazyFrank",
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51746,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30007,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1607881682874695680",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "LazyFrank.eth 🦁",
+          "screen_name": "TheLazyFrank"
+        },
+        {
+          "id_str": "1650837795995283457",
+          "indices": [
+            14,
+            25
+          ],
+          "name": "BASED MINIS",
+          "screen_name": "BasedMinis"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
   }
 ]
