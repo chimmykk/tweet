@@ -2,6 +2,49 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import express from 'express';
+import cors from 'cors';
+import { exec } from 'child_process';
+import { promisify } from 'util';
+
+const execAsync = promisify(exec);
+let cronProcess = null;
+
+// Function to restart the cron job
+async function restartCronJob() {
+    try {
+        // Kill existing cron job if it's running
+        if (cronProcess) {
+            try {
+                await execAsync(`pkill -f "node cronjob.cjs"`);
+            } catch (err) {
+                // Ignore if no process was found to kill
+                if (!err.message.includes('No matching processes')) {
+                    console.error('Error killing existing cron job:', err);
+                }
+            }
+        }
+
+        // Start a new cron job
+        console.log('Starting cron job...');
+        cronProcess = exec('node cronjob.cjs');
+        
+        cronProcess.stdout.on('data', (data) => {
+            console.log(`[Cron] ${data}`);
+        });
+        
+        cronProcess.stderr.on('data', (data) => {
+            console.error(`[Cron Error] ${data}`);
+        });
+        
+        cronProcess.on('close', (code) => {
+            console.log(`Cron job process exited with code ${code}`);
+            cronProcess = null;
+        });
+        
+    } catch (error) {
+        console.error('Error restarting cron job:', error);
+    }
+}
 
 // Resolve __dirname and __filename for ES modules
 const __filename = fileURLToPath(import.meta.url);
@@ -90,6 +133,15 @@ app.post('/adduser', async (req, res) => {
 
     // Save updated config
     await scraper.saveConfig();
+    
+    // Restart cron job to pick up the new user
+    try {
+      await restartCronJob();
+      console.log(`Cron job restarted after adding user: ${username}`);
+    } catch (cronError) {
+      console.error('Error restarting cron job:', cronError);
+      // Continue with the response even if cron restart fails
+    }
 
     // Respond with success
     res.status(201).json({
@@ -167,11 +219,48 @@ app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
-// Start the server
-app.listen(port, () => {
-  console.log(`Server running on http://localhost:${port}`);
-  console.log(`API endpoint: http://localhost:${port}/api/tweets/:username`);
+// Start the server and initial cron job
+app.listen(port, async () => {
+  console.log(`Server running at http://localhost:${port}`);
+  
+  try {
+    await restartCronJob();
+  } catch (error) {
+    console.error('Failed to start initial cron job:', error);
+  }
 });
+
+// Handle process termination
+process.on('SIGINT', async () => {
+  console.log('Shutting down server...');
+  
+  // Kill cron job if running
+  if (cronProcess) {
+    console.log('Stopping cron job...');
+    cronProcess.kill();
+  }
+  
+  process.exit(0);
+});
+
+// Handle uncaught exceptions
+process.on('uncaughtException', (error) => {
+  console.error('Uncaught Exception:', error);
+  if (cronProcess) {
+    cronProcess.kill();
+  }
+  process.exit(1);
+});
+
+process.on('unhandledRejection', (reason, promise) => {
+  console.error('Unhandled Rejection at:', promise, 'reason:', reason);
+  if (cronProcess) {
+    cronProcess.kill();
+  }
+  process.exit(1);
+});
+
+console.log(`API endpoint: http://localhost:${port}/api/tweets/:username`);
 
 // Export the app for potential testing or further use
 export default app;

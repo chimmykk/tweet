@@ -1,0 +1,2498 @@
+[
+  {
+    "type": "tweet",
+    "id": "1931916170715697432",
+    "url": "https://x.com/TheDogePoundNFT/status/1931916170715697432",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1931916170715697432",
+    "text": "@elonmusk https://t.co/KktOkoVs9h",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 592,
+    "createdAt": "Mon Jun 09 03:28:03 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1931915758709448907",
+    "conversationId": "1931915758709448907",
+    "inReplyToUserId": "44196397",
+    "inReplyToUsername": "elonmusk",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176820,
+      "following": 9698,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34513,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3921,
+      "statusesCount": 15270,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/KktOkoVs9h",
+          "expanded_url": "https://twitter.com/TheDogePoundNFT/status/1931916170715697432/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1931916162671017984",
+          "indices": [
+            10,
+            33
+          ],
+          "media_key": "16_1931916162671017984",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARrPi4Oj14AACgACGs+LhYNXkRgAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAACCgABGs+Lg6PXgAAKAAIaz4uFg1eRGAAA",
+              "media_key": "16_1931916162671017984"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gs-Lg6PXgAAen5d.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1080,
+            "width": 1500
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1500
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/KktOkoVs9h",
+          "video_info": {
+            "aspect_ratio": [
+              25,
+              18
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Gs-Lg6PXgAAen5d.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "44196397",
+          "indices": [
+            0,
+            9
+          ],
+          "name": "Elon Musk",
+          "screen_name": "elonmusk"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932077555424567354",
+    "url": "https://x.com/TheDogePoundNFT/status/1932077555424567354",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932077555424567354",
+    "text": "@JohnLemonNFT AWOOOOO!!!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 20,
+    "createdAt": "Mon Jun 09 14:09:20 +0000 2025",
+    "lang": "und",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932077302822699069",
+    "conversationId": "1932077302822699069",
+    "inReplyToUserId": "1467238393696469003",
+    "inReplyToUsername": "JohnLemonNFT",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176807,
+      "following": 9698,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34516,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3923,
+      "statusesCount": 15273,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1467238393696469003",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "John Lemon 🍋 🐶",
+          "screen_name": "JohnLemonNFT"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932061015820394766",
+    "url": "https://x.com/TheDogePoundNFT/status/1932061015820394766",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932061015820394766",
+    "text": "@opensea Gm gm! https://t.co/eCrOzjKUkJ",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 207,
+    "createdAt": "Mon Jun 09 13:03:36 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932060882726682692",
+    "conversationId": "1932060882726682692",
+    "inReplyToUserId": "946213559213555712",
+    "inReplyToUsername": "opensea",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176807,
+      "following": 9698,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34516,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3923,
+      "statusesCount": 15273,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/eCrOzjKUkJ",
+          "expanded_url": "https://twitter.com/TheDogePoundNFT/status/1932061015820394766/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1932061007192395776",
+          "indices": [
+            16,
+            39
+          ],
+          "media_key": "16_1932061007192395776",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARrQDz/iFhAACgACGtAPQeRa4Q4AAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAACCgABGtAPP+IWEAAKAAIa0A9B5FrhDgAA",
+              "media_key": "16_1932061007192395776"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GtAPP-IWEAAly2_.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1000,
+            "width": 1000
+          },
+          "sizes": {
+            "large": {
+              "h": 1000,
+              "w": 1000
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/eCrOzjKUkJ",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GtAPP-IWEAAly2_.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "946213559213555712",
+          "indices": [
+            0,
+            8
+          ],
+          "name": "OpenSea",
+          "screen_name": "opensea"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932047670991839401",
+    "url": "https://x.com/TheDogePoundNFT/status/1932047670991839401",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932047670991839401",
+    "text": "@ZssBecker https://t.co/X0nePSfrax",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 4,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 547,
+    "createdAt": "Mon Jun 09 12:10:35 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932047472580309203",
+    "conversationId": "1932047472580309203",
+    "inReplyToUserId": "1243470638477697024",
+    "inReplyToUsername": "ZssBecker",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176807,
+      "following": 9698,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34516,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3923,
+      "statusesCount": 15273,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/X0nePSfrax",
+          "expanded_url": "https://twitter.com/TheDogePoundNFT/status/1932047670991839401/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1932047663676919808",
+          "indices": [
+            11,
+            34
+          ],
+          "media_key": "16_1932047663676919808",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARrQAx0alhAACgACGtADHs6W4KkAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAACCgABGtADHRqWEAAKAAIa0AMezpbgqQAA",
+              "media_key": "16_1932047663676919808"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GtADHRqWEAA54us.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 640,
+            "width": 640
+          },
+          "sizes": {
+            "large": {
+              "h": 640,
+              "w": 640
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/X0nePSfrax",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GtADHRqWEAA54us.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1243470638477697024",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "Alex Becker 🍊🏆🥇",
+          "screen_name": "ZssBecker"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932523792623923423",
+    "url": "https://x.com/TheDogePoundNFT/status/1932523792623923423",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932523792623923423",
+    "text": "@JohnLemonNFT https://t.co/nhVe9j5q5s",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 114,
+    "createdAt": "Tue Jun 10 19:42:31 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932523240603189684",
+    "conversationId": "1932523240603189684",
+    "inReplyToUserId": "1467238393696469003",
+    "inReplyToUsername": "JohnLemonNFT",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176905,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34521,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3924,
+      "statusesCount": 15274,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/nhVe9j5q5s",
+          "expanded_url": "https://twitter.com/TheDogePoundNFT/status/1932523792623923423/photo/1",
+          "ext_alt_text": "Dogs Lol GIF by Doge Pound",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1932523786584137728",
+          "indices": [
+            14,
+            37
+          ],
+          "media_key": "16_1932523786584137728",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARrRtCUbVyAACgACGtG0JoNW8N8AAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAACCgABGtG0JRtXIAAKAAIa0bQmg1bw3wAA",
+              "media_key": "16_1932523786584137728"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GtG0JRtXIAAP_cF.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 360,
+            "width": 350
+          },
+          "sizes": {
+            "large": {
+              "h": 360,
+              "w": 350
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/nhVe9j5q5s",
+          "video_info": {
+            "aspect_ratio": [
+              35,
+              36
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GtG0JRtXIAAP_cF.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1467238393696469003",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "John Lemon 🍋 🐶",
+          "screen_name": "JohnLemonNFT"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932523792623923423",
+    "url": "https://x.com/TheDogePoundNFT/status/1932523792623923423",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932523792623923423",
+    "text": "@JohnLemonNFT https://t.co/nhVe9j5q5s",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 114,
+    "createdAt": "Tue Jun 10 19:42:31 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932523240603189684",
+    "conversationId": "1932523240603189684",
+    "inReplyToUserId": "1467238393696469003",
+    "inReplyToUsername": "JohnLemonNFT",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176905,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34521,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3924,
+      "statusesCount": 15274,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/nhVe9j5q5s",
+          "expanded_url": "https://twitter.com/TheDogePoundNFT/status/1932523792623923423/photo/1",
+          "ext_alt_text": "Dogs Lol GIF by Doge Pound",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1932523786584137728",
+          "indices": [
+            14,
+            37
+          ],
+          "media_key": "16_1932523786584137728",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARrRtCUbVyAACgACGtG0JoNW8N8AAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAACCgABGtG0JRtXIAAKAAIa0bQmg1bw3wAA",
+              "media_key": "16_1932523786584137728"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GtG0JRtXIAAP_cF.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 360,
+            "width": 350
+          },
+          "sizes": {
+            "large": {
+              "h": 360,
+              "w": 350
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/nhVe9j5q5s",
+          "video_info": {
+            "aspect_ratio": [
+              35,
+              36
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GtG0JRtXIAAP_cF.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1467238393696469003",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "John Lemon 🍋 🐶",
+          "screen_name": "JohnLemonNFT"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932648413696332264",
+    "url": "https://x.com/TheDogePoundNFT/status/1932648413696332264",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932648413696332264",
+    "text": "@beeple https://t.co/H1GD9sw1EL",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 280,
+    "createdAt": "Wed Jun 11 03:57:43 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932648237548122533",
+    "conversationId": "1932648237548122533",
+    "inReplyToUserId": "34097500",
+    "inReplyToUsername": "beeple",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176910,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34522,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3926,
+      "statusesCount": 15278,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/H1GD9sw1EL",
+          "expanded_url": "https://twitter.com/TheDogePoundNFT/status/1932648413696332264/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1932648405429374976",
+          "indices": [
+            8,
+            31
+          ],
+          "media_key": "16_1932648405429374976",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARrSJXwxV9AACgACGtIlfh4XkegAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAACCgABGtIlfDFX0AAKAAIa0iV+HheR6AAA",
+              "media_key": "16_1932648405429374976"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GtIlfDFX0AAw811.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1000,
+            "width": 1000
+          },
+          "sizes": {
+            "large": {
+              "h": 1000,
+              "w": 1000
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/H1GD9sw1EL",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GtIlfDFX0AAw811.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "34097500",
+          "indices": [
+            0,
+            7
+          ],
+          "name": "beeple",
+          "screen_name": "beeple"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932646980985213141",
+    "url": "https://x.com/TheDogePoundNFT/status/1932646980985213141",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932646980985213141",
+    "text": "@notthreadguy @based16z https://t.co/iXoGIyIQuG",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 78,
+    "createdAt": "Wed Jun 11 03:52:01 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932646888848978064",
+    "conversationId": "1932546656878137703",
+    "inReplyToUserId": "1426732252768182281",
+    "inReplyToUsername": "notthreadguy",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176910,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34522,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3926,
+      "statusesCount": 15278,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iXoGIyIQuG",
+          "expanded_url": "https://twitter.com/TheDogePoundNFT/status/1932646980985213141/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1932646975339479040",
+          "indices": [
+            24,
+            47
+          ],
+          "media_key": "16_1932646975339479040",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARrSJC85V8AACgACGtIkMIna0NUAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAACCgABGtIkLzlXwAAKAAIa0iQwidrQ1QAA",
+              "media_key": "16_1932646975339479040"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GtIkLzlXwAAXNO6.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 280,
+            "width": 498
+          },
+          "sizes": {
+            "large": {
+              "h": 280,
+              "w": 498
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/iXoGIyIQuG",
+          "video_info": {
+            "aspect_ratio": [
+              249,
+              140
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GtIkLzlXwAAXNO6.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1426732252768182281",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "threadguy",
+          "screen_name": "notthreadguy"
+        },
+        {
+          "id_str": "1446541960181858315",
+          "indices": [
+            14,
+            23
+          ],
+          "name": "based16z",
+          "screen_name": "based16z"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932638070907527209",
+    "url": "https://x.com/TheDogePoundNFT/status/1932638070907527209",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932638070907527209",
+    "text": "@jessepollak What if Doge Pound became the face of Base NFTs 🧐",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 98,
+    "createdAt": "Wed Jun 11 03:16:37 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932637923746185297",
+    "conversationId": "1932637923746185297",
+    "inReplyToUserId": "18876842",
+    "inReplyToUsername": "jessepollak",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176910,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34522,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3926,
+      "statusesCount": 15278,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "18876842",
+          "indices": [
+            0,
+            12
+          ],
+          "name": "jesse.base.eth",
+          "screen_name": "jessepollak"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932596208566206927",
+    "url": "https://x.com/TheDogePoundNFT/status/1932596208566206927",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932596208566206927",
+    "text": "@JohnLemonNFT Greg is one of us",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 115,
+    "createdAt": "Wed Jun 11 00:30:16 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932595794097635755",
+    "conversationId": "1932595794097635755",
+    "inReplyToUserId": "1467238393696469003",
+    "inReplyToUsername": "JohnLemonNFT",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176910,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34522,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3926,
+      "statusesCount": 15278,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1467238393696469003",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "John Lemon 🍋 🐶",
+          "screen_name": "JohnLemonNFT"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932813269888016791",
+    "url": "https://x.com/TheDogePoundNFT/status/1932813269888016791",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932813269888016791",
+    "text": "@JohnLemonNFT AWOOOOOO!!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 4,
+    "quoteCount": 0,
+    "viewCount": 71,
+    "createdAt": "Wed Jun 11 14:52:48 +0000 2025",
+    "lang": "und",
+    "bookmarkCount": 1,
+    "isReply": true,
+    "inReplyToId": "1932812620270043271",
+    "conversationId": "1932812620270043271",
+    "inReplyToUserId": "1467238393696469003",
+    "inReplyToUsername": "JohnLemonNFT",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176903,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34526,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3926,
+      "statusesCount": 15280,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1467238393696469003",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "John Lemon 🍋 🐶",
+          "screen_name": "JohnLemonNFT"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932777546434630143",
+    "url": "https://x.com/TheDogePoundNFT/status/1932777546434630143",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932777546434630143",
+    "text": "@W00DS_eth Awoooooo!!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 2,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 51,
+    "createdAt": "Wed Jun 11 12:30:50 +0000 2025",
+    "lang": "und",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932776329113407987",
+    "conversationId": "1932776329113407987",
+    "inReplyToUserId": "1250603137393586178",
+    "inReplyToUsername": "W00DS_eth",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176903,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34526,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3926,
+      "statusesCount": 15280,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1250603137393586178",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "W 0 0 D S",
+          "screen_name": "W00DS_eth"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932813269888016791",
+    "url": "https://x.com/TheDogePoundNFT/status/1932813269888016791",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932813269888016791",
+    "text": "@JohnLemonNFT AWOOOOOO!!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 4,
+    "quoteCount": 0,
+    "viewCount": 71,
+    "createdAt": "Wed Jun 11 14:52:48 +0000 2025",
+    "lang": "und",
+    "bookmarkCount": 1,
+    "isReply": true,
+    "inReplyToId": "1932812620270043271",
+    "conversationId": "1932812620270043271",
+    "inReplyToUserId": "1467238393696469003",
+    "inReplyToUsername": "JohnLemonNFT",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176903,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34526,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3926,
+      "statusesCount": 15280,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1467238393696469003",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "John Lemon 🍋 🐶",
+          "screen_name": "JohnLemonNFT"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932777546434630143",
+    "url": "https://x.com/TheDogePoundNFT/status/1932777546434630143",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932777546434630143",
+    "text": "@W00DS_eth Awoooooo!!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 2,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 51,
+    "createdAt": "Wed Jun 11 12:30:50 +0000 2025",
+    "lang": "und",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932776329113407987",
+    "conversationId": "1932776329113407987",
+    "inReplyToUserId": "1250603137393586178",
+    "inReplyToUsername": "W00DS_eth",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176903,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34526,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3926,
+      "statusesCount": 15280,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1250603137393586178",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "W 0 0 D S",
+          "screen_name": "W00DS_eth"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932949990315352369",
+    "url": "https://x.com/TheDogePoundNFT/status/1932949990315352369",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932949990315352369",
+    "text": "@DJTigerPaws_AI @hedra_labs @elevenlabsio @freepik We gotta get Derpy some more biscuits!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 6,
+    "createdAt": "Wed Jun 11 23:56:04 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932905298815004914",
+    "conversationId": "1932905298815004914",
+    "inReplyToUserId": "1545433700875341825",
+    "inReplyToUsername": "DJTigerPaws_AI",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176898,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34528,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3926,
+      "statusesCount": 15282,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1545433700875341825",
+          "indices": [
+            0,
+            15
+          ],
+          "name": "DJ Tiger Paws",
+          "screen_name": "DJTigerPaws_AI"
+        },
+        {
+          "id_str": "1798380911870042112",
+          "indices": [
+            16,
+            27
+          ],
+          "name": "Hedra",
+          "screen_name": "hedra_labs"
+        },
+        {
+          "id_str": "1478679005788311552",
+          "indices": [
+            28,
+            41
+          ],
+          "name": "ElevenLabs",
+          "screen_name": "elevenlabsio"
+        },
+        {
+          "id_str": "586453534",
+          "indices": [
+            42,
+            50
+          ],
+          "name": "Freepik",
+          "screen_name": "freepik"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1932949990315352369",
+    "url": "https://x.com/TheDogePoundNFT/status/1932949990315352369",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1932949990315352369",
+    "text": "@DJTigerPaws_AI @hedra_labs @elevenlabsio @freepik We gotta get Derpy some more biscuits!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 6,
+    "createdAt": "Wed Jun 11 23:56:04 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1932905298815004914",
+    "conversationId": "1932905298815004914",
+    "inReplyToUserId": "1545433700875341825",
+    "inReplyToUsername": "DJTigerPaws_AI",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176898,
+      "following": 9700,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34528,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3926,
+      "statusesCount": 15282,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1545433700875341825",
+          "indices": [
+            0,
+            15
+          ],
+          "name": "DJ Tiger Paws",
+          "screen_name": "DJTigerPaws_AI"
+        },
+        {
+          "id_str": "1798380911870042112",
+          "indices": [
+            16,
+            27
+          ],
+          "name": "Hedra",
+          "screen_name": "hedra_labs"
+        },
+        {
+          "id_str": "1478679005788311552",
+          "indices": [
+            28,
+            41
+          ],
+          "name": "ElevenLabs",
+          "screen_name": "elevenlabsio"
+        },
+        {
+          "id_str": "586453534",
+          "indices": [
+            42,
+            50
+          ],
+          "name": "Freepik",
+          "screen_name": "freepik"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934274732863435057",
+    "url": "https://x.com/TheDogePoundNFT/status/1934274732863435057",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1934274732863435057",
+    "text": "Happy Fathers Day! https://t.co/5nHmHdVGbR",
+    "source": "Twitter for iPhone",
+    "retweetCount": 2,
+    "replyCount": 8,
+    "likeCount": 22,
+    "quoteCount": 0,
+    "viewCount": 391,
+    "createdAt": "Sun Jun 15 15:40:08 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1934274732863435057",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176847,
+      "following": 9705,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34527,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3927,
+      "statusesCount": 15283,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/5nHmHdVGbR",
+          "expanded_url": "https://twitter.com/TheDogePoundNFT/status/1934274732863435057/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1934274728413270016",
+          "indices": [
+            19,
+            42
+          ],
+          "media_key": "3_1934274728413270016",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrX7J4FFpAACgACGtfsnw5WsTEAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGtfsngUWkAAKAAIa1+yfDlaxMQAA",
+              "media_key": "3_1934274728413270016"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GtfsngUWkAAr3DJ.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 282,
+                "w": 504,
+                "x": 0,
+                "y": 57
+              },
+              {
+                "h": 504,
+                "w": 504,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 528,
+                "w": 463,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 528,
+                "w": 264,
+                "x": 66,
+                "y": 0
+              },
+              {
+                "h": 528,
+                "w": 504,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 528,
+            "width": 504
+          },
+          "sizes": {
+            "large": {
+              "h": 528,
+              "w": 504
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5nHmHdVGbR"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934225167758049632",
+    "url": "https://x.com/TheDogePoundNFT/status/1934225167758049632",
+    "twitterUrl": "https://twitter.com/TheDogePoundNFT/status/1934225167758049632",
+    "text": "@JohnLemonNFT Happy Fathers Day!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 4,
+    "quoteCount": 0,
+    "viewCount": 138,
+    "createdAt": "Sun Jun 15 12:23:10 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1934224596393423097",
+    "conversationId": "1934224596393423097",
+    "inReplyToUserId": "1467238393696469003",
+    "inReplyToUsername": "JohnLemonNFT",
+    "author": {
+      "type": "user",
+      "userName": "TheDogePoundNFT",
+      "url": "https://x.com/TheDogePoundNFT",
+      "twitterUrl": "https://twitter.com/TheDogePoundNFT",
+      "id": "1377713365431296001",
+      "name": "Doge Pound 🐶",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1678182592615464963/6A_iYrIt_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1377713365431296001/1665583279",
+      "description": "",
+      "location": "The Doge Pound",
+      "followers": 176847,
+      "following": 9705,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Apr 01 20:04:12 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34527,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3927,
+      "statusesCount": 15283,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1880383164809703519"
+      ],
+      "profile_bio": {
+        "description": "A community of doges having fun 🐶 https://t.co/fvYBHyHg8p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/dogepound",
+                "expanded_url": "http://discord.gg/dogepound",
+                "indices": [
+                  34,
+                  57
+                ],
+                "url": "https://t.co/fvYBHyHg8p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/the…",
+                "expanded_url": "https://opensea.io/collection/the-doge-pound",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/rcTZMz9yy5"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1467238393696469003",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "John Lemon 🍋 🐶",
+          "screen_name": "JohnLemonNFT"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  }
+]
