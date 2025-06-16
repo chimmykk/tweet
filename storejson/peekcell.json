@@ -23995,5 +23995,3819 @@
     },
     "quoted_tweet": null,
     "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934593859000168703",
+    "url": "https://x.com/peekcell/status/1934593859000168703",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934593859000168703",
+    "text": "@GM_DFZ @opensea Amazing! So happy for the amazing creatures 🤩",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 27,
+    "createdAt": "Mon Jun 16 12:48:13 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1934577022732513574",
+    "conversationId": "1934577022732513574",
+    "inReplyToUserId": "1923230565651841024",
+    "inReplyToUsername": "GM_DFZ",
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1923230565651841024",
+          "indices": [
+            0,
+            7
+          ],
+          "name": "GHOST MACHINE",
+          "screen_name": "GM_DFZ"
+        },
+        {
+          "id_str": "946213559213555712",
+          "indices": [
+            8,
+            16
+          ],
+          "name": "OpenSea",
+          "screen_name": "opensea"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934552237449085364",
+    "url": "https://x.com/peekcell/status/1934552237449085364",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934552237449085364",
+    "text": "@jbondwagon @ton_blockchain Will do my best! Wanna join the minis GC?",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 14,
+    "createdAt": "Mon Jun 16 10:02:50 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1934551191062786279",
+    "conversationId": "1934546556767945069",
+    "inReplyToUserId": "46600062",
+    "inReplyToUsername": "jbondwagon",
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "46600062",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "JBond",
+          "screen_name": "jbondwagon"
+        },
+        {
+          "id_str": "1442437262663319565",
+          "indices": [
+            12,
+            27
+          ],
+          "name": "TON 💎",
+          "screen_name": "ton_blockchain"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934550823427797046",
+    "url": "https://x.com/peekcell/status/1934550823427797046",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934550823427797046",
+    "text": "@jbondwagon @ton_blockchain And you know minis got the gif game on point! \n\nCheck the gifs here on X - type in “basedminis” 👀 (ideally with the “ to reduce the noise)",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 24,
+    "createdAt": "Mon Jun 16 09:57:13 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1934550401942171929",
+    "conversationId": "1934546556767945069",
+    "inReplyToUserId": "46600062",
+    "inReplyToUsername": "jbondwagon",
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "46600062",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "JBond",
+          "screen_name": "jbondwagon"
+        },
+        {
+          "id_str": "1442437262663319565",
+          "indices": [
+            12,
+            27
+          ],
+          "name": "TON 💎",
+          "screen_name": "ton_blockchain"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934550342089187835",
+    "url": "https://x.com/peekcell/status/1934550342089187835",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934550342089187835",
+    "text": "@jbondwagon @ton_blockchain don't tell anyone but I am trying to get Minis out there too! 🫣",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 11,
+    "createdAt": "Mon Jun 16 09:55:18 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1934549654517215639",
+    "conversationId": "1934546556767945069",
+    "inReplyToUserId": "46600062",
+    "inReplyToUsername": "jbondwagon",
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "46600062",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "JBond",
+          "screen_name": "jbondwagon"
+        },
+        {
+          "id_str": "1442437262663319565",
+          "indices": [
+            12,
+            27
+          ],
+          "name": "TON 💎",
+          "screen_name": "ton_blockchain"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934550221867893020",
+    "url": "https://x.com/peekcell/status/1934550221867893020",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934550221867893020",
+    "text": "How I love it out here! \n\nLove you all &lt;3 https://t.co/BkHCIMDBRO",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 5,
+    "likeCount": 11,
+    "quoteCount": 0,
+    "viewCount": 246,
+    "createdAt": "Mon Jun 16 09:54:49 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1934550221867893020",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/BkHCIMDBRO",
+          "expanded_url": "https://twitter.com/peekcell/status/1934550221867893020/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1934550208006025216",
+          "indices": [
+            45,
+            68
+          ],
+          "media_key": "16_1934550208006025216",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARrY5yocW3AACgACGtjnLVaWwRwAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAACCgABGtjnKhxbcAAKAAIa2OctVpbBHAAA",
+              "media_key": "16_1934550208006025216"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GtjnKhxbcAA57EH.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1000,
+            "width": 1000
+          },
+          "sizes": {
+            "large": {
+              "h": 1000,
+              "w": 1000
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/BkHCIMDBRO",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GtjnKhxbcAA57EH.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934549746636521698",
+    "url": "https://x.com/peekcell/status/1934549746636521698",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934549746636521698",
+    "text": "@Kalianji_nft @GM_DFZ Yes please! I would have clicked mint 10 few more times 🫣",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 14,
+    "createdAt": "Mon Jun 16 09:52:56 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1934238751804260778",
+    "conversationId": "1934238751804260778",
+    "inReplyToUserId": "728684876761829378",
+    "inReplyToUsername": "Kalianji_nft",
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "728684876761829378",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "▪️ kalianji.dfz ▪️",
+          "screen_name": "Kalianji_nft"
+        },
+        {
+          "id_str": "1923230565651841024",
+          "indices": [
+            14,
+            21
+          ],
+          "name": "GHOST MACHINE",
+          "screen_name": "GM_DFZ"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934549491123683609",
+    "url": "https://x.com/peekcell/status/1934549491123683609",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934549491123683609",
+    "text": "@jbondwagon @ton_blockchain Crazy stuff! 😳",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 108,
+    "createdAt": "Mon Jun 16 09:51:55 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1934546556767945069",
+    "conversationId": "1934546556767945069",
+    "inReplyToUserId": "46600062",
+    "inReplyToUsername": "jbondwagon",
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "46600062",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "JBond",
+          "screen_name": "jbondwagon"
+        },
+        {
+          "id_str": "1442437262663319565",
+          "indices": [
+            12,
+            27
+          ],
+          "name": "TON 💎",
+          "screen_name": "ton_blockchain"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934547871551922203",
+    "url": "https://x.com/peekcell/status/1934547871551922203",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934547871551922203",
+    "text": "@My_NamesJames @GM_DFZ @BasedMinis @betty_nft @psych_nft @Deadfellaz 👀 https://t.co/FISGLXCsm8",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 64,
+    "createdAt": "Mon Jun 16 09:45:29 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1934503773508075836",
+    "conversationId": "1933958791084531814",
+    "inReplyToUserId": "1720355888",
+    "inReplyToUsername": "My_NamesJames",
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/peekcell/statu…",
+          "expanded_url": "https://x.com/peekcell/status/1934547806598906181",
+          "indices": [
+            71,
+            94
+          ],
+          "url": "https://t.co/FISGLXCsm8"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "1720355888",
+          "indices": [
+            0,
+            14
+          ],
+          "name": "Wiz.Vet",
+          "screen_name": "My_NamesJames"
+        },
+        {
+          "id_str": "1923230565651841024",
+          "indices": [
+            15,
+            22
+          ],
+          "name": "GHOST MACHINE",
+          "screen_name": "GM_DFZ"
+        },
+        {
+          "id_str": "1650837795995283457",
+          "indices": [
+            23,
+            34
+          ],
+          "name": "BASED MINIS",
+          "screen_name": "BasedMinis"
+        },
+        {
+          "id_str": "1418431052704411653",
+          "indices": [
+            35,
+            45
+          ],
+          "name": "BETTY",
+          "screen_name": "betty_nft"
+        },
+        {
+          "id_str": "527997176",
+          "indices": [
+            46,
+            56
+          ],
+          "name": "Psych.DFZ",
+          "screen_name": "psych_nft"
+        },
+        {
+          "id_str": "1417676536967090176",
+          "indices": [
+            57,
+            68
+          ],
+          "name": "Deadfellaz",
+          "screen_name": "Deadfellaz"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "type": "tweet",
+      "id": "1934547806598906181",
+      "url": "https://x.com/peekcell/status/1934547806598906181",
+      "twitterUrl": "https://twitter.com/peekcell/status/1934547806598906181",
+      "text": "Hey @My_NamesJames how do you like you @GM_DFZ @BasedMinis style :D ? https://t.co/oQG7Rz74QF",
+      "source": "Twitter for iPhone",
+      "retweetCount": 5,
+      "replyCount": 2,
+      "likeCount": 17,
+      "quoteCount": 1,
+      "viewCount": 529,
+      "createdAt": "Mon Jun 16 09:45:13 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1934547806598906181",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "peekcell",
+        "url": "https://x.com/peekcell",
+        "twitterUrl": "https://twitter.com/peekcell",
+        "id": "1530528438523727873",
+        "name": "Peekcell",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+        "description": "",
+        "location": "DM about commissions",
+        "followers": 7314,
+        "following": 2234,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Sat May 28 12:37:11 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 51744,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 3815,
+        "statusesCount": 30005,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1751604623968993569"
+        ],
+        "profile_bio": {
+          "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    36,
+                    47
+                  ],
+                  "name": "",
+                  "screen_name": "basedminis"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    50,
+                    64
+                  ],
+                  "name": "",
+                  "screen_name": "peekcellminis"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    79,
+                    95
+                  ],
+                  "name": "",
+                  "screen_name": "peekcellodyssey"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    103,
+                    114
+                  ],
+                  "name": "",
+                  "screen_name": "BoredApeYC"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    117,
+                    129
+                  ],
+                  "name": "",
+                  "screen_name": "ChimpersNFT"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    132,
+                    138
+                  ],
+                  "name": "",
+                  "screen_name": "Azuki"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    142,
+                    153
+                  ],
+                  "name": "",
+                  "screen_name": "Deadfellaz"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "hub.xyz/peekcell",
+                  "expanded_url": "https://hub.xyz/peekcell",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/3pN3SCl5Mp"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/oQG7Rz74QF",
+            "expanded_url": "https://twitter.com/peekcell/status/1934547806598906181/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1934547794091450368",
+            "indices": [
+              70,
+              93
+            ],
+            "media_key": "3_1934547794091450368",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrY5PgT1iAACgACGtjk+v1WwUUAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGtjk+BPWIAAKAAIa2OT6/VbBRQAA",
+                "media_key": "3_1934547794091450368"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gtjk-BPWIAAzhFj.png",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1120,
+                  "w": 2000,
+                  "x": 0,
+                  "y": 290
+                },
+                {
+                  "h": 2000,
+                  "w": 2000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2000,
+                  "w": 1754,
+                  "x": 123,
+                  "y": 0
+                },
+                {
+                  "h": 2000,
+                  "w": 1000,
+                  "x": 500,
+                  "y": 0
+                },
+                {
+                  "h": 2000,
+                  "w": 2000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2000,
+              "width": 2000
+            },
+            "sizes": {
+              "large": {
+                "h": 2000,
+                "w": 2000
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/oQG7Rz74QF"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1720355888",
+            "indices": [
+              4,
+              18
+            ],
+            "name": "Wiz.Vet",
+            "screen_name": "My_NamesJames"
+          },
+          {
+            "id_str": "1923230565651841024",
+            "indices": [
+              39,
+              46
+            ],
+            "name": "GHOST MACHINE",
+            "screen_name": "GM_DFZ"
+          },
+          {
+            "id_str": "1650837795995283457",
+            "indices": [
+              47,
+              58
+            ],
+            "name": "BASED MINIS",
+            "screen_name": "BasedMinis"
+          }
+        ]
+      },
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "1934503773508075836",
+        "url": "",
+        "twitterUrl": "",
+        "text": "",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "viewCount": 0,
+        "createdAt": "",
+        "lang": "",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {},
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      "retweeted_tweet": null
+    },
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934547806598906181",
+    "url": "https://x.com/peekcell/status/1934547806598906181",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934547806598906181",
+    "text": "Hey @My_NamesJames how do you like you @GM_DFZ @BasedMinis style :D ? https://t.co/oQG7Rz74QF",
+    "source": "Twitter for iPhone",
+    "retweetCount": 5,
+    "replyCount": 2,
+    "likeCount": 17,
+    "quoteCount": 1,
+    "viewCount": 529,
+    "createdAt": "Mon Jun 16 09:45:13 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1934547806598906181",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/oQG7Rz74QF",
+          "expanded_url": "https://twitter.com/peekcell/status/1934547806598906181/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1934547794091450368",
+          "indices": [
+            70,
+            93
+          ],
+          "media_key": "3_1934547794091450368",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrY5PgT1iAACgACGtjk+v1WwUUAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGtjk+BPWIAAKAAIa2OT6/VbBRQAA",
+              "media_key": "3_1934547794091450368"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/Gtjk-BPWIAAzhFj.png",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1120,
+                "w": 2000,
+                "x": 0,
+                "y": 290
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1754,
+                "x": 123,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1000,
+                "x": 500,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2000,
+            "width": 2000
+          },
+          "sizes": {
+            "large": {
+              "h": 2000,
+              "w": 2000
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/oQG7Rz74QF"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1720355888",
+          "indices": [
+            4,
+            18
+          ],
+          "name": "Wiz.Vet",
+          "screen_name": "My_NamesJames"
+        },
+        {
+          "id_str": "1923230565651841024",
+          "indices": [
+            39,
+            46
+          ],
+          "name": "GHOST MACHINE",
+          "screen_name": "GM_DFZ"
+        },
+        {
+          "id_str": "1650837795995283457",
+          "indices": [
+            47,
+            58
+          ],
+          "name": "BASED MINIS",
+          "screen_name": "BasedMinis"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "type": "tweet",
+      "id": "1934503773508075836",
+      "url": "https://x.com/My_NamesJames/status/1934503773508075836",
+      "twitterUrl": "https://twitter.com/My_NamesJames/status/1934503773508075836",
+      "text": "@peekcell @GM_DFZ @BasedMinis @betty_nft @psych_nft @Deadfellaz @peekcell please do your magic!! https://t.co/azp2gecWt9",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 480,
+      "createdAt": "Mon Jun 16 06:50:15 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1933958791084531814",
+      "conversationId": "1933958791084531814",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "My_NamesJames",
+        "url": "https://x.com/My_NamesJames",
+        "twitterUrl": "https://twitter.com/My_NamesJames",
+        "id": "1720355888",
+        "name": "Wiz.Vet",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1851926087632068608/B6xpkjsK_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1720355888/1715338423",
+        "description": "",
+        "location": "Derbyshire",
+        "followers": 5673,
+        "following": 6783,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Sep 01 22:02:43 +0000 2013",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 30815,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 4442,
+        "statusesCount": 15656,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1932785652602401071"
+        ],
+        "profile_bio": {
+          "description": "Hello my names James - founding member of @minomobnft & @pxlmobnft 😎🔥 Host of #NoRulesPhoto weekly Web3 photography space 📸",
+          "entities": {
+            "description": {
+              "hashtags": [
+                {
+                  "indices": [
+                    78,
+                    91
+                  ],
+                  "text": "NoRulesPhoto"
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    42,
+                    53
+                  ],
+                  "name": "",
+                  "screen_name": "minomobnft"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    56,
+                    66
+                  ],
+                  "name": "",
+                  "screen_name": "pxlmobnft"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "MinoMob.com",
+                  "expanded_url": "https://MinoMob.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/Pdi077HNdV"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/azp2gecWt9",
+            "expanded_url": "https://twitter.com/My_NamesJames/status/1934503773508075836/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1934503768084602880",
+            "indices": [
+              97,
+              120
+            ],
+            "media_key": "3_1934503768084602880",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrYvO15VmAACgACGti87ryaATwAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGti87XlWYAAKAAIa2LzuvJoBPAAA",
+                "media_key": "3_1934503768084602880"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/Gti87XlWYAA5cR_.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 560,
+                  "w": 1000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 1000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 877,
+                  "x": 62,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 500,
+                  "x": 250,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 1000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1000,
+              "width": 1000
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "w": 1000
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/azp2gecWt9"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1530528438523727873",
+            "indices": [
+              0,
+              9
+            ],
+            "name": "Peekcell",
+            "screen_name": "peekcell"
+          },
+          {
+            "id_str": "1923230565651841024",
+            "indices": [
+              10,
+              17
+            ],
+            "name": "GHOST MACHINE",
+            "screen_name": "GM_DFZ"
+          },
+          {
+            "id_str": "1650837795995283457",
+            "indices": [
+              18,
+              29
+            ],
+            "name": "BASED MINIS",
+            "screen_name": "BasedMinis"
+          },
+          {
+            "id_str": "1418431052704411653",
+            "indices": [
+              30,
+              40
+            ],
+            "name": "BETTY",
+            "screen_name": "betty_nft"
+          },
+          {
+            "id_str": "527997176",
+            "indices": [
+              41,
+              51
+            ],
+            "name": "Psych.DFZ",
+            "screen_name": "psych_nft"
+          },
+          {
+            "id_str": "1417676536967090176",
+            "indices": [
+              52,
+              63
+            ],
+            "name": "Deadfellaz",
+            "screen_name": "Deadfellaz"
+          },
+          {
+            "id_str": "1530528438523727873",
+            "indices": [
+              64,
+              73
+            ],
+            "name": "Peekcell",
+            "screen_name": "peekcell"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934545094750646396",
+    "url": "https://x.com/peekcell/status/1934545094750646396",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934545094750646396",
+    "text": "@secretweaponeth @ayyeffeff @GM_DFZ @betty_nft @psych_nft haha thanks!",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 15,
+    "createdAt": "Mon Jun 16 09:34:27 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1934544593607164153",
+    "conversationId": "1934544452485529641",
+    "inReplyToUserId": "1114069945",
+    "inReplyToUsername": "secretweaponeth",
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1114069945",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "secretweapon.eth",
+          "screen_name": "secretweaponeth"
+        },
+        {
+          "id_str": "1455667355393081350",
+          "indices": [
+            17,
+            27
+          ],
+          "name": "A.F.F.",
+          "screen_name": "ayyeffeff"
+        },
+        {
+          "id_str": "1923230565651841024",
+          "indices": [
+            28,
+            35
+          ],
+          "name": "GHOST MACHINE",
+          "screen_name": "GM_DFZ"
+        },
+        {
+          "id_str": "1418431052704411653",
+          "indices": [
+            36,
+            46
+          ],
+          "name": "BETTY",
+          "screen_name": "betty_nft"
+        },
+        {
+          "id_str": "527997176",
+          "indices": [
+            47,
+            57
+          ],
+          "name": "Psych.DFZ",
+          "screen_name": "psych_nft"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934544514842026166",
+    "url": "https://x.com/peekcell/status/1934544514842026166",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934544514842026166",
+    "text": "@ayyeffeff @GM_DFZ @BasedMinis @betty_nft @psych_nft @Deadfellaz 👀 https://t.co/DPPOTjWUfU",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 1,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 27,
+    "createdAt": "Mon Jun 16 09:32:09 +0000 2025",
+    "lang": "qme",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1934452401739641234",
+    "conversationId": "1933958791084531814",
+    "inReplyToUserId": "1455667355393081350",
+    "inReplyToUsername": "ayyeffeff",
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/peekcell/statu…",
+          "expanded_url": "https://x.com/peekcell/status/1934544452485529641",
+          "indices": [
+            67,
+            90
+          ],
+          "url": "https://t.co/DPPOTjWUfU"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "1455667355393081350",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "A.F.F.",
+          "screen_name": "ayyeffeff"
+        },
+        {
+          "id_str": "1923230565651841024",
+          "indices": [
+            11,
+            18
+          ],
+          "name": "GHOST MACHINE",
+          "screen_name": "GM_DFZ"
+        },
+        {
+          "id_str": "1650837795995283457",
+          "indices": [
+            19,
+            30
+          ],
+          "name": "BASED MINIS",
+          "screen_name": "BasedMinis"
+        },
+        {
+          "id_str": "1418431052704411653",
+          "indices": [
+            31,
+            41
+          ],
+          "name": "BETTY",
+          "screen_name": "betty_nft"
+        },
+        {
+          "id_str": "527997176",
+          "indices": [
+            42,
+            52
+          ],
+          "name": "Psych.DFZ",
+          "screen_name": "psych_nft"
+        },
+        {
+          "id_str": "1417676536967090176",
+          "indices": [
+            53,
+            64
+          ],
+          "name": "Deadfellaz",
+          "screen_name": "Deadfellaz"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "type": "tweet",
+      "id": "1934544452485529641",
+      "url": "https://x.com/peekcell/status/1934544452485529641",
+      "twitterUrl": "https://twitter.com/peekcell/status/1934544452485529641",
+      "text": "Hey @ayyeffeff how is that? https://t.co/ZuS17j6GgA",
+      "source": "Twitter for iPhone",
+      "retweetCount": 1,
+      "replyCount": 2,
+      "likeCount": 12,
+      "quoteCount": 1,
+      "viewCount": 396,
+      "createdAt": "Mon Jun 16 09:31:54 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1934544452485529641",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "peekcell",
+        "url": "https://x.com/peekcell",
+        "twitterUrl": "https://twitter.com/peekcell",
+        "id": "1530528438523727873",
+        "name": "Peekcell",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+        "description": "",
+        "location": "DM about commissions",
+        "followers": 7314,
+        "following": 2234,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Sat May 28 12:37:11 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 51744,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 3815,
+        "statusesCount": 30005,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1751604623968993569"
+        ],
+        "profile_bio": {
+          "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    36,
+                    47
+                  ],
+                  "name": "",
+                  "screen_name": "basedminis"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    50,
+                    64
+                  ],
+                  "name": "",
+                  "screen_name": "peekcellminis"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    79,
+                    95
+                  ],
+                  "name": "",
+                  "screen_name": "peekcellodyssey"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    103,
+                    114
+                  ],
+                  "name": "",
+                  "screen_name": "BoredApeYC"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    117,
+                    129
+                  ],
+                  "name": "",
+                  "screen_name": "ChimpersNFT"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    132,
+                    138
+                  ],
+                  "name": "",
+                  "screen_name": "Azuki"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    142,
+                    153
+                  ],
+                  "name": "",
+                  "screen_name": "Deadfellaz"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "hub.xyz/peekcell",
+                  "expanded_url": "https://hub.xyz/peekcell",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/3pN3SCl5Mp"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/ZuS17j6GgA",
+            "expanded_url": "https://twitter.com/peekcell/status/1934544452485529641/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "all": {
+                "tags": [
+                  {
+                    "name": "GHOST MACHINE",
+                    "screen_name": "GM_DFZ",
+                    "type": "user",
+                    "user_id": "1923230565651841024"
+                  },
+                  {
+                    "name": "BETTY",
+                    "screen_name": "betty_nft",
+                    "type": "user",
+                    "user_id": "1418431052704411653"
+                  },
+                  {
+                    "name": "Psych.DFZ",
+                    "screen_name": "psych_nft",
+                    "type": "user",
+                    "user_id": "527997176"
+                  }
+                ]
+              },
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1934544074088054784",
+            "indices": [
+              28,
+              51
+            ],
+            "media_key": "3_1934544074088054784",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrY4ZXyWwAACgACGtjh7gyaQCkAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGtjhlfJbAAAKAAIa2OHuDJpAKQAA",
+                "media_key": "3_1934544074088054784"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GtjhlfJbAAAbjI1.png",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1120,
+                  "w": 2000,
+                  "x": 0,
+                  "y": 190
+                },
+                {
+                  "h": 2000,
+                  "w": 2000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2000,
+                  "w": 1754,
+                  "x": 173,
+                  "y": 0
+                },
+                {
+                  "h": 2000,
+                  "w": 1000,
+                  "x": 550,
+                  "y": 0
+                },
+                {
+                  "h": 2000,
+                  "w": 2000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2000,
+              "width": 2000
+            },
+            "sizes": {
+              "large": {
+                "h": 2000,
+                "w": 2000
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZuS17j6GgA"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1455667355393081350",
+            "indices": [
+              4,
+              14
+            ],
+            "name": "A.F.F.",
+            "screen_name": "ayyeffeff"
+          }
+        ]
+      },
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "1934452401739641234",
+        "url": "",
+        "twitterUrl": "",
+        "text": "",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "viewCount": 0,
+        "createdAt": "",
+        "lang": "",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {},
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      "retweeted_tweet": null
+    },
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934544452485529641",
+    "url": "https://x.com/peekcell/status/1934544452485529641",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934544452485529641",
+    "text": "Hey @ayyeffeff how is that? https://t.co/ZuS17j6GgA",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1,
+    "replyCount": 2,
+    "likeCount": 12,
+    "quoteCount": 1,
+    "viewCount": 396,
+    "createdAt": "Mon Jun 16 09:31:54 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1934544452485529641",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/ZuS17j6GgA",
+          "expanded_url": "https://twitter.com/peekcell/status/1934544452485529641/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "all": {
+              "tags": [
+                {
+                  "name": "GHOST MACHINE",
+                  "screen_name": "GM_DFZ",
+                  "type": "user",
+                  "user_id": "1923230565651841024"
+                },
+                {
+                  "name": "BETTY",
+                  "screen_name": "betty_nft",
+                  "type": "user",
+                  "user_id": "1418431052704411653"
+                },
+                {
+                  "name": "Psych.DFZ",
+                  "screen_name": "psych_nft",
+                  "type": "user",
+                  "user_id": "527997176"
+                }
+              ]
+            },
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1934544074088054784",
+          "indices": [
+            28,
+            51
+          ],
+          "media_key": "3_1934544074088054784",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrY4ZXyWwAACgACGtjh7gyaQCkAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGtjhlfJbAAAKAAIa2OHuDJpAKQAA",
+              "media_key": "3_1934544074088054784"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GtjhlfJbAAAbjI1.png",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1120,
+                "w": 2000,
+                "x": 0,
+                "y": 190
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1754,
+                "x": 173,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 1000,
+                "x": 550,
+                "y": 0
+              },
+              {
+                "h": 2000,
+                "w": 2000,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2000,
+            "width": 2000
+          },
+          "sizes": {
+            "large": {
+              "h": 2000,
+              "w": 2000
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZuS17j6GgA"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1455667355393081350",
+          "indices": [
+            4,
+            14
+          ],
+          "name": "A.F.F.",
+          "screen_name": "ayyeffeff"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "type": "tweet",
+      "id": "1934452401739641234",
+      "url": "https://x.com/ayyeffeff/status/1934452401739641234",
+      "twitterUrl": "https://twitter.com/ayyeffeff/status/1934452401739641234",
+      "text": "@peekcell @GM_DFZ @BasedMinis @betty_nft @psych_nft @Deadfellaz this dudes got personality! https://t.co/SRsNagPLq5",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 2,
+      "quoteCount": 1,
+      "viewCount": 419,
+      "createdAt": "Mon Jun 16 03:26:07 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1933958791084531814",
+      "conversationId": "1933958791084531814",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ayyeffeff",
+        "url": "https://x.com/ayyeffeff",
+        "twitterUrl": "https://twitter.com/ayyeffeff",
+        "id": "1455667355393081350",
+        "name": "A.F.F.",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1929859208242954240/Rx3p6l0v_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1455667355393081350/1733521209",
+        "description": "",
+        "location": "Northeast",
+        "followers": 3222,
+        "following": 4044,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Tue Nov 02 22:45:21 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 66066,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 4677,
+        "statusesCount": 16521,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1916824654833987915"
+        ],
+        "profile_bio": {
+          "description": "Branding | Marketing | Socials | Visual Creative |  Co-Host: @undeadhourshow + Mutant Monday | SSC @serum_dao | Officer @mutant_cartel | MBA #0599 | MAYC #6229",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    61,
+                    76
+                  ],
+                  "name": "",
+                  "screen_name": "undeadhourshow"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    99,
+                    109
+                  ],
+                  "name": "",
+                  "screen_name": "serum_dao"
+                },
+                {
+                  "id_str": "0",
+                  "indices": [
+                    120,
+                    134
+                  ],
+                  "name": "",
+                  "screen_name": "mutant_cartel"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/SRsNagPLq5",
+            "expanded_url": "https://twitter.com/ayyeffeff/status/1934452401739641234/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1934452376171413504",
+            "indices": [
+              92,
+              115
+            ],
+            "media_key": "3_1934452376171413504",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARrYji/cm4AACgACGtiONdCXsZIAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGtiOL9ybgAAKAAIa2I410JexkgAA",
+                "media_key": "3_1934452376171413504"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GtiOL9ybgAAZp_5.png",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 560,
+                  "w": 1000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 1000,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 877,
+                  "x": 62,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 500,
+                  "x": 250,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 1000,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1000,
+              "width": 1000
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "w": 1000
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SRsNagPLq5"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1530528438523727873",
+            "indices": [
+              0,
+              9
+            ],
+            "name": "Peekcell",
+            "screen_name": "peekcell"
+          },
+          {
+            "id_str": "1923230565651841024",
+            "indices": [
+              10,
+              17
+            ],
+            "name": "GHOST MACHINE",
+            "screen_name": "GM_DFZ"
+          },
+          {
+            "id_str": "1650837795995283457",
+            "indices": [
+              18,
+              29
+            ],
+            "name": "BASED MINIS",
+            "screen_name": "BasedMinis"
+          },
+          {
+            "id_str": "1418431052704411653",
+            "indices": [
+              30,
+              40
+            ],
+            "name": "BETTY",
+            "screen_name": "betty_nft"
+          },
+          {
+            "id_str": "527997176",
+            "indices": [
+              41,
+              51
+            ],
+            "name": "Psych.DFZ",
+            "screen_name": "psych_nft"
+          },
+          {
+            "id_str": "1417676536967090176",
+            "indices": [
+              52,
+              63
+            ],
+            "name": "Deadfellaz",
+            "screen_name": "Deadfellaz"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    },
+    "retweeted_tweet": null
+  },
+  {
+    "type": "tweet",
+    "id": "1934504057344848250",
+    "url": "https://x.com/peekcell/status/1934504057344848250",
+    "twitterUrl": "https://twitter.com/peekcell/status/1934504057344848250",
+    "text": "@GutterEgg_ @ApeChainHUB Oooh but have you got any mini ape chain or Curtis hideaway? 👀 it was part of the first ever burn mechanism on ape chain! (Sound on) https://t.co/dTpBWpmorO",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 9,
+    "createdAt": "Mon Jun 16 06:51:23 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1933907734451159134",
+    "conversationId": "1933907734451159134",
+    "inReplyToUserId": "947270680118259712",
+    "inReplyToUsername": "GutterEgg_",
+    "author": {
+      "type": "user",
+      "userName": "peekcell",
+      "url": "https://x.com/peekcell",
+      "twitterUrl": "https://twitter.com/peekcell",
+      "id": "1530528438523727873",
+      "name": "Peekcell",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1845226522472230916/-KrTd9yX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1530528438523727873/1730903700",
+      "description": "",
+      "location": "DM about commissions",
+      "followers": 7314,
+      "following": 2234,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat May 28 12:37:11 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 51744,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3815,
+      "statusesCount": 30005,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1751604623968993569"
+      ],
+      "profile_bio": {
+        "description": "Pixel artist & animator. Founder of @basedminis | @peekcellminis (MBA#00512) | @peekcellodyssey\n\nProud @BoredApeYC 🍌 @ChimpersNFT 🐒 @Azuki ⛩️ @Deadfellaz 🧟",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  36,
+                  47
+                ],
+                "name": "",
+                "screen_name": "basedminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  50,
+                  64
+                ],
+                "name": "",
+                "screen_name": "peekcellminis"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  79,
+                  95
+                ],
+                "name": "",
+                "screen_name": "peekcellodyssey"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  103,
+                  114
+                ],
+                "name": "",
+                "screen_name": "BoredApeYC"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  117,
+                  129
+                ],
+                "name": "",
+                "screen_name": "ChimpersNFT"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  132,
+                  138
+                ],
+                "name": "",
+                "screen_name": "Azuki"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  142,
+                  153
+                ],
+                "name": "",
+                "screen_name": "Deadfellaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hub.xyz/peekcell",
+                "expanded_url": "https://hub.xyz/peekcell",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3pN3SCl5Mp"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/dTpBWpmorO",
+          "expanded_url": "https://twitter.com/peekcell/status/1934504057344848250/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1934503991863320576",
+          "indices": [
+            158,
+            181
+          ],
+          "media_key": "13_1934503991863320576",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARrYvSGTlqAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGti9IZOWoAAAAA==",
+              "media_key": "13_1934503991863320576"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1934503991863320576/img/iVwZ1OSv4dTjxutW.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1800,
+            "width": 1520
+          },
+          "sizes": {
+            "large": {
+              "h": 1800,
+              "w": 1520
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/dTpBWpmorO",
+          "video_info": {
+            "aspect_ratio": [
+              38,
+              45
+            ],
+            "duration_millis": 34000,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1934503991863320576/pl/jPajL2KDRMEMqDQy.m3u8?tag=21"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1934503991863320576/vid/avc1/320x378/WWC-dRJ_WglfvN6n.mp4?tag=21"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1934503991863320576/vid/avc1/480x568/Vd9_9IFrQaVu5RoD.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1934503991863320576/vid/avc1/720x852/gq-14PD03ridLW5p.mp4?tag=21"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1934503991863320576/vid/avc1/1080x1278/3_neQHlxp9wgd2tZ.mp4?tag=21"
+              },
+              {
+                "bitrate": 25128000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1934503991863320576/vid/avc1/1520x1800/j9qcJUqhuQPNa9t9.mp4?tag=21"
+              }
+            ]
+          }
+        },
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/dTpBWpmorO",
+          "expanded_url": "https://twitter.com/peekcell/status/1934504057344848250/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1934503991812968448",
+          "indices": [
+            158,
+            181
+          ],
+          "media_key": "13_1934503991812968448",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARrYvSGQllAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGti9IZCWUAAAAA==",
+              "media_key": "13_1934503991812968448"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1934503991812968448/img/UvkXUzNOz6QuYZod.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1840,
+            "width": 1840
+          },
+          "sizes": {
+            "large": {
+              "h": 1840,
+              "w": 1840
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/dTpBWpmorO",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 5000,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1934503991812968448/pl/0T5vddHoQRKW_1FI.m3u8?tag=21"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1934503991812968448/vid/avc1/320x320/WyWJAbqZzmtELw7T.mp4?tag=21"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1934503991812968448/vid/avc1/540x540/dmZTNRL9VN0Smd87.mp4?tag=21"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1934503991812968448/vid/avc1/720x720/3cj7bEIDzEqXP4VE.mp4?tag=21"
+              },
+              {
+                "bitrate": 8768000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1934503991812968448/vid/avc1/1080x1080/fB-Cs4kkZjeOeWFG.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "947270680118259712",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "GutterEgg 🥚",
+          "screen_name": "GutterEgg_"
+        },
+        {
+          "id_str": "1712584327341424640",
+          "indices": [
+            12,
+            24
+          ],
+          "name": "ApeChainHUB",
+          "screen_name": "ApeChainHUB"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null
   }
 ]

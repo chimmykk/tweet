@@ -459,7 +459,7 @@
 
 
         // Base URL for API requests
-        const API_BASE_URL = 'https://5837-206-81-3-128.ngrok-free.app';
+        const API_BASE_URL = 'http://localhost:3000';
 
         // Load users from server
         async function loadUsers() {
@@ -641,7 +641,7 @@
             tweetsContainer.innerHTML = '<div class="loading">Loading tweets...</div>';
             
             try {
-                const response = await fetch(`https://5837-206-81-3-128.ngrok-free.app/api/tweets/${encodeURIComponent(username)}`);
+                const response = await fetch(`http://localhost:3000/api/tweets/${encodeURIComponent(username)}`);
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
@@ -667,7 +667,15 @@
             const tweetsContainer = document.getElementById('tweets');
             tweetsContainer.innerHTML = '';
             
-            tweets.forEach(tweet => {
+            // Filter out reply tweets
+            const nonReplyTweets = tweets.filter(tweet => !tweet.isReply);
+            
+            if (nonReplyTweets.length === 0) {
+                tweetsContainer.innerHTML = '<div class="no-tweets">No non-reply tweets found for this user.</div>';
+                return;
+            }
+            
+            nonReplyTweets.forEach(tweet => {
                 const tweetEl = document.createElement('div');
                 tweetEl.className = 'tweet';
                 tweetEl.innerHTML = `
@@ -734,6 +742,18 @@
                 `;
                 tweetsContainer.appendChild(tweetEl);
             });
+            
+            // Show a message if tweets were filtered out
+            if (nonReplyTweets.length < tweets.length) {
+                const filteredCount = tweets.length - nonReplyTweets.length;
+                const message = document.createElement('div');
+                message.className = 'filter-message';
+                message.textContent = `(${filteredCount} reply tweet${filteredCount !== 1 ? 's' : ''} hidden)`;
+                message.style.marginTop = '10px';
+                message.style.color = 'var(--text-muted)';
+                message.style.fontSize = '14px';
+                tweetsContainer.appendChild(message);
+            }
         }
 
         // Event listeners
