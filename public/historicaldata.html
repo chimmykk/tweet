@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Download Historical Data</title>
+  <script src="https://unpkg.com/htmx.org@1.9.2"></script>
+</head>
+<body>
+  <h1>Download Historical Data</h1>
+
+  <form id="download-form">
+    <label for="username">Enter Twitter Username:</label>
+    <input type="text" id="username" name="username" required />
+    <button type="submit">Download JSON</button>
+  </form>
+
+  <script>
+    document.getElementById('download-form').addEventListener('submit', async function (e) {
+      e.preventDefault();
+      const username = document.getElementById('username').value;
+      const response = await fetch(`https://5837-206-81-3-128.ngrok-free.app/api/tweets/historicaldata/${username}`);
+      
+      if (!response.ok) {
+        alert('Failed to fetch data');
+        return;
+      }
+
+      const data = await response.json();
+      const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `${username}_historical_data.json`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    });
+  </script>
+</body>
+</html>
