@@ -1,41 +1,351 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Download Historical Data</title>
-  <script src="https://unpkg.com/htmx.org@1.9.2"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter Historical Scraper</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f3f4f6;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start; /* Align items to the start to allow scrolling */
+            min-height: 100vh;
+            margin: 0;
+            padding: 2rem; /* Add some padding around the content */
+            box-sizing: border-box; /* Include padding in element's total width and height */
+        }
+        .main-wrapper {
+            display: flex;
+            gap: 2rem; /* Space between the two main sections */
+            width: 100%;
+            max-width: 1200px; /* Limit overall width */
+            flex-wrap: wrap; /* Allow wrapping on smaller screens */
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 2.5rem;
+            border-radius: 1rem;
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 100%;
+            flex-grow: 1; /* Allow it to grow */
+            margin-bottom: 2rem; /* Space if wraps */
+        }
+        .file-list-container {
+            background-color: #ffffff;
+            padding: 2.5rem;
+            border-radius: 1rem;
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+            max-width: 600px; /* Adjust max-width for the file list */
+            width: 100%;
+            flex-grow: 1; /* Allow it to grow */
+        }
+        .input-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+            color: #374151;
+        }
+        .input-group input {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: 1px solid #d1d5db;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            box-sizing: border-box; /* Ensures padding doesn't increase width */
+        }
+        .btn {
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+            display: block; /* Make button full width */
+            width: 100%; /* Ensure button fills its container */
+        }
+        .btn-primary {
+            background-color: #1da1f2; /* Twitter blue */
+            color: white;
+            border: none;
+            box-shadow: 0 4px 6px rgba(29, 161, 242, 0.2);
+        }
+        .btn-primary:hover {
+            background-color: #1799e6;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(29, 161, 242, 0.3);
+        }
+        .btn-download {
+            background-color: #10b981; /* Green for download */
+            color: white;
+            border: none;
+            box-shadow: 0 4px 6px rgba(16, 185, 129, 0.2);
+            text-align: center;
+            text-decoration: none; /* For the <a> tag */
+            display: inline-block; /* Allow proper centering if needed */
+        }
+        .btn-download:hover {
+            background-color: #0d9d6e;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(16, 185, 129, 0.3);
+        }
+        .message {
+            margin-top: 1rem;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            font-size: 0.9rem;
+            text-align: center;
+        }
+        .message.success {
+            background-color: #ecfdf5;
+            color: #065f46;
+            border: 1px solid #34d399;
+        }
+        .message.error {
+            background-color: #fef2f2;
+            color: #b91c1c;
+            border: 1px solid #ef4444;
+        }
+        .loading-spinner {
+            border: 4px solid rgba(0, 0, 0, 0.1);
+            border-left-color: #1da1f2;
+            border-radius: 50%;
+            width: 24px;
+            height: 24px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+            display: none; /* Hidden by default */
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        /* Flexbox for buttons to space them out */
+        .button-group {
+            display: flex;
+            gap: 1rem; /* Space between buttons */
+            flex-wrap: wrap; /* Allow wrapping on small screens */
+        }
+        .button-group > * {
+            flex-grow: 1; /* Make buttons grow to fill space */
+            min-width: 150px; /* Minimum width for each button */
+        }
+        .file-list ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .file-list li {
+            background-color: #f9fafb;
+            border: 1px solid #e5e7eb;
+            border-radius: 0.5rem;
+            margin-bottom: 0.75rem;
+            padding: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.95rem;
+            color: #4b5563;
+        }
+        .file-list li:last-child {
+            margin-bottom: 0;
+        }
+        .file-list li a {
+            color: #1da1f2;
+            font-weight: 500;
+            text-decoration: none;
+            transition: color 0.2s ease-in-out;
+        }
+        .file-list li a:hover {
+            color: #1799e6;
+            text-decoration: underline;
+        }
+        .file-list .download-btn-small {
+            padding: 0.5rem 1rem;
+            font-size: 0.85rem;
+            background-color: #10b981;
+            color: white;
+            border-radius: 0.5rem;
+            text-decoration: none;
+            transition: background-color 0.2s ease-in-out;
+            box-shadow: 0 2px 4px rgba(16, 185, 129, 0.1);
+        }
+        .file-list .download-btn-small:hover {
+            background-color: #0d9d6e;
+        }
+    </style>
 </head>
 <body>
-  <h1>Download Historical Data</h1>
+    <div class="main-wrapper">
+        <div class="container">
+            <h1 class="text-3xl font-extrabold text-gray-900 mb-6 text-center">
+                Twitter Historical Scraper
+            </h1>
 
-  <form id="download-form">
-    <label for="username">Enter Twitter Username:</label>
-    <input type="text" id="username" name="username" required />
-    <button type="submit">Download JSON</button>
-  </form>
+            <div class="mb-4">
+                <label for="usernameInput" class="block text-gray-700 text-sm font-medium mb-2">
+                    Twitter Username (e.g., rilso_y)
+                </label>
+                <input
+                    type="text"
+                    id="usernameInput"
+                    class="shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-gray-300 rounded-md p-3"
+                    placeholder="Enter username"
+                />
+            </div>
 
-  <script>
-    document.getElementById('download-form').addEventListener('submit', async function (e) {
-      e.preventDefault();
-      const username = document.getElementById('username').value;
-      const response = await fetch(`https://5837-206-81-3-128.ngrok-free.app/api/tweets/historicaldata/${username}`);
-      
-      if (!response.ok) {
-        alert('Failed to fetch data');
-        return;
-      }
+            <div class="button-group mb-6">
+                <button
+                    id="scrapeButton"
+                    class="btn btn-primary"
+                >
+                    Scrape & Prepare Download
+                </button>
+                <!-- This specific download link is for the *just* scraped file -->
+                <a
+                    id="downloadLink"
+                    href="#"
+                    class="btn btn-download hidden flex items-center justify-center"
+                    download
+                >
+                    Download Last Scraped CSV
+                </a>
+            </div>
 
-      const data = await response.json();
-      const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = `${username}_historical_data.json`;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
-    });
-  </script>
+            <div id="loadingSpinner" class="loading-spinner mb-4 mx-auto"></div>
+            <div id="message" class="message hidden"></div>
+        </div>
+
+        <div class="file-list-container">
+            <h2 class="text-2xl font-extrabold text-gray-900 mb-6 text-center">
+                Available Historical Data
+            </h2>
+            <div id="fileList" class="file-list">
+                <p class="text-gray-500 text-center">Loading files...</p>
+                <!-- Files will be dynamically inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const usernameInput = document.getElementById('usernameInput');
+        const scrapeButton = document.getElementById('scrapeButton');
+        const downloadLink = document.getElementById('downloadLink');
+        const messageDiv = document.getElementById('message');
+        const loadingSpinner = document.getElementById('loadingSpinner');
+        const fileListDiv = document.getElementById('fileList'); // New element
+
+        // IMPORTANT: Ensure this URL matches the PORT your server.js is running on.
+        // If server.js is running on PORT 3000, it should be 'http://localhost:3000/api'.
+        const API_BASE_URL = 'http://localhost:4000/api'; // Changed to 3000 as per common practice
+
+        // Function to show messages
+        function showMessage(msg, type) {
+            messageDiv.textContent = msg;
+            messageDiv.className = `message ${type}`;
+            messageDiv.classList.remove('hidden');
+        }
+
+        // Function to hide messages
+        function hideMessage() {
+            messageDiv.classList.add('hidden');
+        }
+
+        // Function to show/hide loading spinner
+        function toggleLoading(show) {
+            if (show) {
+                loadingSpinner.style.display = 'block';
+                scrapeButton.disabled = true;
+                scrapeButton.textContent = 'Scraping...';
+            } else {
+                loadingSpinner.style.display = 'none';
+                scrapeButton.disabled = false;
+                scrapeButton.textContent = 'Scrape & Prepare Download';
+            }
+        }
+
+        // NEW FUNCTION: Fetch and display the list of CSV files
+        async function fetchAndDisplayFiles() {
+            fileListDiv.innerHTML = '<p class="text-gray-500 text-center">Loading files...</p>';
+            try {
+                const response = await fetch(`${API_BASE_URL}/files`);
+                const data = await response.json();
+
+                if (response.ok && data.success) {
+                    if (data.files.length === 0) {
+                        fileListDiv.innerHTML = '<p class="text-gray-500 text-center">No historical CSV files found yet.</p>';
+                    } else {
+                        const ul = document.createElement('ul');
+                        data.files.forEach(filename => {
+                            const li = document.createElement('li');
+                            const username = filename.replace('.csv', '');
+                            li.innerHTML = `
+                                <span>${filename}</span>
+                                <a href="${API_BASE_URL}/download/${username}" class="download-btn-small" download="${filename}">Download</a>
+                            `;
+                            ul.appendChild(li);
+                        });
+                        fileListDiv.innerHTML = ''; // Clear loading message
+                        fileListDiv.appendChild(ul);
+                    }
+                } else {
+                    fileListDiv.innerHTML = `<p class="text-red-500 text-center">Error loading files: ${data.message || 'Unknown error'}</p>`;
+                    console.error('Error fetching files:', data.message);
+                }
+            } catch (error) {
+                fileListDiv.innerHTML = `<p class="text-red-500 text-center">Network error or server unavailable for file list.</p>`;
+                console.error('Network error fetching files:', error);
+            }
+        }
+
+
+        scrapeButton.addEventListener('click', async () => {
+            const username = usernameInput.value.trim();
+            if (!username) {
+                showMessage('Please enter a Twitter username.', 'error');
+                return;
+            }
+
+            hideMessage();
+            downloadLink.classList.add('hidden'); // Hide specific download link initially
+            toggleLoading(true);
+
+            try {
+                const response = await fetch(`${API_BASE_URL}/scrape`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ username }),
+                });
+
+                const data = await response.json();
+
+                if (response.ok) {
+                    showMessage(data.message, 'success');
+                    // Set the download link dynamically for the just-scraped file
+                    downloadLink.href = `${API_BASE_URL}/download/${username}`;
+                    downloadLink.classList.remove('hidden'); // Make the specific download button visible
+
+                    // Refresh the overall file list to include the new file
+                    await fetchAndDisplayFiles();
+
+                } else {
+                    showMessage(`Error: ${data.message || 'Something went wrong.'}`, 'error');
+                }
+            } catch (error) {
+                console.error('Fetch error:', error);
+                showMessage(`Network error or server unavailable: ${error.message}`, 'error');
+            } finally {
+                toggleLoading(false);
+            }
+        });
+
+        // Fetch and display files when the page loads
+        document.addEventListener('DOMContentLoaded', fetchAndDisplayFiles);
+
+    </script>
 </body>
 </html>
